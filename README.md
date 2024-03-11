@@ -1,6 +1,6 @@
 ### Description
 
-### [Demo]([https://kirillportfolio.netlify.app/])
+### [Demo](https://kirillportfolio.netlify.app/)
 
 
 ### Features
