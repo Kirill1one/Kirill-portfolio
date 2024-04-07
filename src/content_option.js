@@ -55,7 +55,7 @@ const skills = [
 
 const dataportfolio = [ 
     {
-        img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66125c500891b7923047ca9c/screenshot_2024-04-07-08-41-54-0000.webp&fit=cover&h=600&w=900",  
+        img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66125c500891b7923047ca9c/screenshot_2024-04-07-08-41-54-0000.webp&fit=cover&h=420&w=900",  
         description: "Nike website",
         skills: "HTML, Tailwind, JS, React.JS",
         link: "https://github.com/Kirill1one/Nike-React",
