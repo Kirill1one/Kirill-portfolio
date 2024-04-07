@@ -55,10 +55,10 @@ const skills = [
 
 const dataportfolio = [ 
     {
-        img: "https://kirillportfolioreact.netlify.app/static/media/05.d2ff165b6a65fb36a866.jpg",  
-        description: "Household goods",
-        skills: "HTML, CSS, JS, React.JS",
-        link: "https://github.com/Kirill1one/Household-goods",
+        img: "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66125c500891b7923047ca9c/screenshot_2024-04-07-08-41-54-0000.webp&fit=cover&h=600&w=900",  
+        description: "Nike website",
+        skills: "HTML, Tailwind, JS, React.JS",
+        link: "https://github.com/Kirill1one/Nike-React",
     },
     {
         img: "https://kirillportfolioreact.netlify.app/static/media/06.5e21f4aaed36d90944a4.jpg",
@@ -83,7 +83,7 @@ const dataportfolio = [
         description: "Data submission form",
         skills: " HTML, CSS, JS, React.JS",
         link: "https://github.com/Kirill1one/data-submission-form",
-         
+          
     },
     
 ];
