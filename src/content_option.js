@@ -103,7 +103,7 @@ const contactConfig = {
 const socialprofils = {
 	github: 'https://github.com/Kirill1one',
 	vk: 'https://vk.com/kirilll_kup',
-	telegram: 'https://t.me/kkiVel_1',
+	telegram: 'https://t.me/kiVelq',
 }
 export {
 	contactConfig,
