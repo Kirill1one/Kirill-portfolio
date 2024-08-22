@@ -67,6 +67,12 @@ const dataportfolio = [
 		link: 'https://github.com/Kirill1one/Nike-React',
 	},
 	{
+		img: 'https://github.com/Kirill1one/Virtualr/blob/main/VirtualR.png?raw=true',
+		description: 'Virtualr',
+		skills: 'React, Tailwind CSS, JS',
+		link: 'https://github.com/Kirill1one/Virtualr',
+	},
+	{
 		img: 'https://kirillportfolioreact.netlify.app/static/media/06.5e21f4aaed36d90944a4.jpg',
 		description: 'Quiz',
 		skills: 'HTML, SCSS, JS, React.JS',
