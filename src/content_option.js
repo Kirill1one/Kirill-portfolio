@@ -7,62 +7,70 @@ const meta = {
 const introdata = {
 	title: 'I’m Kirill',
 	animated: {
-		first: 'I love coding',
-		second: 'I code cool websites',
+		first: '',
+		second: '',
 	},
 	description:
-		'Self-motivated and passionate front-end developer with a keen interest.',
-	your_img_url: 'https://avatars.githubusercontent.com/u/104112337?v=4',
+		'Frontend developer с большим интересом.',
+	your_img_url: 'https://img.hhcdn.ru/photo/764684745.jpeg?t=1733711895&h=ddDq5iG9QXWpJuzTKq7zdQ',
 }
 
 const dataabout = {
-	title: 'Abit about me',
+	title: 'Немного обо мне => ',
 	aboutme:
-		"I'm a frontend developer. My ability to work with JavaScript, React, Redux, Node JS technologies. I am also responsible, goal-oriented and strive for constant development and acquisition of new skills.",
+		"Я Frontend developer. Постоянно работаю с технологиями и инструментами, выкладываюсь что бы интерфейс был красивый (◕‿◕)",
 }
 const worktimeline = [
 	{
 		jobtitle: 'Freelance',
 		where: 'Frontend developer',
-		date: 'November 2022 - June 2023',
+		date: 'Декабрь 2022 — Май 2023',
 	},
 	{
-		jobtitle: 'BIG BEAR VANS',
+		jobtitle: 'BIG BEAR VANS (US startup)',
 		where: 'Frontend developer',
-		date: 'June 2023 - September 2023s',
+		date: 'Май 2023 — Август 2023',
 	},
 	{
-		jobtitle: 'Freelance',
+		jobtitle: 'SportPit',
 		where: 'Frontend developer',
-		date: 'October 2023 – January 2024',
+		date: 'Октябрь 2023 — Май 2024',
 	},
 ]
 
 const skills = [
 	{
-		name: 'Languages and Frontend',
-		description: 'HTML, CSS, JavaScript',
+		name: 'Frontend:',
+		description: ' HTML, CSS, SCSS, JavaScript, React.js.',
 	},
 	{
-		name: 'Frameworks and Libraries',
-		description: 'React-Bootstrap, React, Redux, Node.js',
+		name: 'UI Frameworks & Tools:',
+		description: 'Bootstrap, Tailwind CSS, Material-UI, Framer Motion.',
 	},
 	{
-		name: 'Tools',
-		description: 'WordPress, GIT, Figma, Netlify,  Soft-UI CSS',
+		name: ' Testing & Optimization:',
+		description: ' SEO, Google Analytics, Webpack, Vite, Git.',
+	},
+	{
+		name: 'CMS:',
+		description: ' WordPress, 1С-Битрикс.',
+	},
+	{
+		name: 'Design Tools:',
+		description: 'Figma',
 	},
 ]
 
 const dataportfolio = [
 	{
 		img: 'https://cdn.dribbble.com/userupload/6837853/file/original-602adfe48baaa14ad8de4fe14f0e4c51.png?crop=0x0-3201x2401&resize=1600x1200',
-		description: 'Website with Modern UI/UX in React JS with Tailwind',
+		description: 'Веб-сайт с современным UI/UX',
 		skills: 'React, Tailwind CSS, JS',
 		link: 'https://github.com/Kirill1one/BrainWave',
 	},
 	{
 		img: 'https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66125c500891b7923047ca9c/screenshot_2024-04-07-08-41-54-0000.webp&fit=cover&h=420&w=900',
-		description: 'Nike website',
+		description: 'Nike Веб-сайт',
 		skills: 'HTML, Tailwind CSS, JS, React.JS',
 		link: 'https://github.com/Kirill1one/Nike-React',
 	},
