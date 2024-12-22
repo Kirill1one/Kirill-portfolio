@@ -67,7 +67,15 @@ export const About = () => {
                   <div className="progress-des">
                      <p>{data.description}</p>
                   </div>
-                  
+                  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2PNL3RQ7KN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2PNL3RQ7KN');
+</script>
                 </div>
               );
             })}
