@@ -24,17 +24,17 @@ const worktimeline = [
 	{
 		jobtitle: 'Freelance',
 		where: 'Frontend developer',
-		date: 'Декабрь 2022 — Май 2023',
+		date: 'Март 2023 — Июнь 2023',
 	},
 	{
 		jobtitle: 'BIG BEAR VANS (US startup)',
 		where: 'Frontend developer',
-		date: 'Май 2023 — Август 2023',
+		date: 'Июль 2023 — Декабрь 2023',
 	},
 	{
 		jobtitle: 'SportPit',
 		where: 'Frontend developer',
-		date: 'Октябрь 2023 — Май 2024',
+		date: 'Январь 2024 — Декабрь 2024',
 	},
 ]
 
@@ -108,7 +108,7 @@ const dataportfolio = [
 
 const contactConfig = {
 	YOUR_EMAIL: 'kirill2002ku@gmail.com',
-	YOUR_FONE: '+7 (904) 463 78-15',
+	YOUR_FONE: '+7 (952) 269-63-88',
 	YOUR_SERVICE_ID: 'service_id',
 	YOUR_TEMPLATE_ID: 'template_id',
 	YOUR_USER_ID: 'user_id',
