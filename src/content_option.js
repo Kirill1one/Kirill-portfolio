@@ -12,7 +12,7 @@ const introdata = {
 	},
 	description:
 		'Frontend developer с большим интересом.',
-	your_img_url: 'https://img.hhcdn.ru/photo/764684745.jpeg?t=1733711895&h=ddDq5iG9QXWpJuzTKq7zdQ',
+	your_img_url: 'https://lh3.googleusercontent.com/a/ACg8ocKFfEsm5TcNRJbjpn4nAteMVc_wNdOqzZcKTxTJOtq_cqTtr9iJX8VlGAayFnQpKuVY8sTC3BBgrHjtYTIgkEeqZWlcyrjf=s288-c-no',
 }
 
 const dataabout = {
