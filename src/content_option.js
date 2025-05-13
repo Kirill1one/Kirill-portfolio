@@ -22,44 +22,40 @@ const dataabout = {
 }
 const worktimeline = [
 	{
-		jobtitle: 'Freelance',
-		where: 'Frontend developer',
-		date: 'Март 2023 — Июнь 2023',
-	},
-	{
 		jobtitle: 'BIG BEAR VANS (US startup)',
 		where: 'Frontend developer',
-		date: 'Июль 2023 — Декабрь 2023',
+		date: 'Май 2023 — Ноябрь 2023',
 	},
 	{
 		jobtitle: 'SportPit',
 		where: 'Frontend developer',
-		date: 'Январь 2024 — Декабрь 2024',
+		date: 'Декабрь 2023 — Апрель 2025',
 	},
 ]
 
 const skills = [
-	{
-		name: 'Frontend:',
-		description: ' HTML, CSS, SCSS, JavaScript, React.js.',
-	},
-	{
-		name: 'UI Frameworks & Tools:',
-		description: 'Bootstrap, Tailwind CSS, Material-UI, Framer Motion.',
-	},
-	{
-		name: ' Testing & Optimization:',
-		description: ' SEO, Google Analytics, Webpack, Vite, Git.',
-	},
-	{
-		name: 'CMS:',
-		description: ' WordPress, 1С-Битрикс.',
-	},
-	{
-		name: 'Design Tools:',
-		description: 'Figma',
-	},
+  {
+    name: 'Frontend',
+    description: 'HTML, CSS, SCSS, JavaScript, React.js',
+  },
+  {
+    name: 'UI Frameworks & Animations',
+    description: 'Bootstrap, Tailwind CSS, Material-UI, Framer Motion',
+  },
+  {
+    name: 'Performance & Tools',
+    description: 'SEO, Google Analytics, Webpack, Vite, Git',
+  },
+  {
+    name: 'CMS',
+    description: 'WordPress, 1С-Битрикс',
+  },
+  {
+    name: 'Design Tools',
+    description: 'Figma',
+  },
 ]
+
 
 const dataportfolio = [
 	{
