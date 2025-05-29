@@ -21,16 +21,19 @@ const dataabout = {
 		"Я Frontend developer. Постоянно работаю с технологиями и инструментами, выкладываюсь что бы интерфейс был красивый (◕‿◕)",
 }
 const worktimeline = [
-	{
-		jobtitle: 'BIG BEAR VANS (US startup)',
-		where: 'Frontend developer',
-		date: 'Май 2023 — Ноябрь 2023',
-	},
+	 
 	{
 		jobtitle: 'SportPit',
 		where: 'Frontend developer',
 		date: 'Декабрь 2023 — Апрель 2025',
 	},
+	{
+		jobtitle: 'BIG BEAR VANS (US startup)',
+		where: 'Frontend developer',
+		date: 'Май 2023 — Ноябрь 2023',
+	},
+
+	
 ]
 
 const skills = [
@@ -44,7 +47,7 @@ const skills = [
   },
   {
     name: 'Performance & Tools',
-    description: 'SEO, Google Analytics, Webpack, Vite, Git',
+    description:  SEO, Lighthouse, Core Web Vitals, Webpack, Vite, Git.
   },
   {
     name: 'CMS',
